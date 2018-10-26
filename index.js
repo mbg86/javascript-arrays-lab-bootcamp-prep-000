@@ -23,5 +23,4 @@ return kittens
 
 function appendKitten(name) {
 kittens.push("Broom")
-return kittens
 }
