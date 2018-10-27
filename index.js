@@ -22,5 +22,5 @@ return kittens
 }
 
 function appendKitten(name) {
-return kittens.push('Broom')
+return ...kittens('Broom')
 }
