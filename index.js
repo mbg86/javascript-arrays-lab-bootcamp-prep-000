@@ -30,5 +30,5 @@ return ['Arnold', ...kittens]
 }
 
 function removeLastKitten() {
-return kittens.push("Ralph")
+return kittens.push("Garfield")
 }
